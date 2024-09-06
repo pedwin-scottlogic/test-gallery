@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "classic",
   "css": "./custom.css",
   "footer": "© 2024 Paul Edwin",
   "usage-stats": false
